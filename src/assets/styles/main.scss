@@ -1,0 +1,10 @@
+// Base
+@import './base/variables';
+
+// Components
+@import '../../App.scss';
+@import '../../components/Container/Container.scss';
+@import '../../components/Pages/Home/Home.scss';
+@import '../../components/Pages/Blog/Blog.scss';
+@import '../../components/Pages/Post/Post.scss';
+@import '../../components/Pages/NotFound/NotFoundPage.scss';
